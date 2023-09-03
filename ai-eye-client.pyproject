@@ -1,6 +1,6 @@
 {
     "files": [
         "widget.py",
-        "form.ui"
+        "./ui/form.ui"
     ]
 }
