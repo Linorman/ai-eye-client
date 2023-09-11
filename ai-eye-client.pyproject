@@ -1,6 +1,9 @@
 {
     "files": [
         "widget.py",
-        "./ui/form.ui"
+        "./ui/form.ui",
+        "ui/SpeechRecognition.ui",
+        "ui/ui_form.py",
+        "ui/ui_SpeechRecognition.py"
     ]
 }
